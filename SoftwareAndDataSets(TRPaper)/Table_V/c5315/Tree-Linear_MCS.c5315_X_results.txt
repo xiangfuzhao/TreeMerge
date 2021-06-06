@@ -1,0 +1,381 @@
+ 
+MCS.c5315.000.matrix.txt 0  
+MCS.c5315.001.matrix.txt 0  
+MCS.c5315.002.matrix.txt 0  
+MCS.c5315.003.matrix.txt 0  
+MCS.c5315.004.matrix.txt 0  
+MCS.c5315.005.matrix.txt 0  
+MCS.c5315.006.matrix.txt  
+MCS.c5315.007.matrix.txt  
+MCS.c5315.008.matrix.txt 0  
+MCS.c5315.009.matrix.txt 0  
+MCS.c5315.010.matrix.txt 0  
+MCS.c5315.011.matrix.txt 0  
+MCS.c5315.012.matrix.txt 0  
+MCS.c5315.013.matrix.txt 0  
+MCS.c5315.014.matrix.txt 0  
+MCS.c5315.015.matrix.txt 0  
+MCS.c5315.016.matrix.txt  
+MCS.c5315.017.matrix.txt  
+MCS.c5315.018.matrix.txt 0  
+MCS.c5315.019.matrix.txt 0  
+MCS.c5315.020.matrix.txt 0  
+MCS.c5315.021.matrix.txt 0  
+MCS.c5315.022.matrix.txt 0  
+MCS.c5315.023.matrix.txt 0  
+MCS.c5315.024.matrix.txt 0  
+MCS.c5315.025.matrix.txt 0  
+MCS.c5315.026.matrix.txt  
+MCS.c5315.027.matrix.txt  
+MCS.c5315.028.matrix.txt 0  
+MCS.c5315.029.matrix.txt 0  
+MCS.c5315.030.matrix.txt 0  
+MCS.c5315.031.matrix.txt 0  
+MCS.c5315.032.matrix.txt 0  
+MCS.c5315.033.matrix.txt 0  
+MCS.c5315.034.matrix.txt 0  
+MCS.c5315.035.matrix.txt 0  
+MCS.c5315.036.matrix.txt  
+MCS.c5315.037.matrix.txt  
+MCS.c5315.038.matrix.txt 0  
+MCS.c5315.039.matrix.txt 0  
+MCS.c5315.040.matrix.txt 0  
+MCS.c5315.041.matrix.txt 0  
+MCS.c5315.042.matrix.txt 0  
+MCS.c5315.043.matrix.txt 0  
+MCS.c5315.044.matrix.txt 0  
+MCS.c5315.045.matrix.txt 0  
+MCS.c5315.046.matrix.txt  
+MCS.c5315.047.matrix.txt  
+MCS.c5315.048.matrix.txt 0  
+MCS.c5315.049.matrix.txt 0  
+MCS.c5315.050.matrix.txt 0  
+MCS.c5315.051.matrix.txt 0  
+MCS.c5315.052.matrix.txt 0  
+MCS.c5315.053.matrix.txt 0  
+MCS.c5315.054.matrix.txt 0  
+MCS.c5315.055.matrix.txt 0  
+MCS.c5315.056.matrix.txt  
+MCS.c5315.057.matrix.txt  
+MCS.c5315.058.matrix.txt 0  
+MCS.c5315.059.matrix.txt 0  
+MCS.c5315.060.matrix.txt 0  
+MCS.c5315.061.matrix.txt 0  
+MCS.c5315.062.matrix.txt 0  
+MCS.c5315.063.matrix.txt 0  
+MCS.c5315.064.matrix.txt 0  
+MCS.c5315.065.matrix.txt 0  
+MCS.c5315.066.matrix.txt  
+MCS.c5315.067.matrix.txt  
+MCS.c5315.068.matrix.txt 0  
+MCS.c5315.069.matrix.txt 0  
+MCS.c5315.070.matrix.txt 0  
+MCS.c5315.071.matrix.txt 0  
+MCS.c5315.072.matrix.txt 0  
+MCS.c5315.073.matrix.txt 0  
+MCS.c5315.074.matrix.txt 0  
+MCS.c5315.075.matrix.txt 0  
+MCS.c5315.076.matrix.txt  
+MCS.c5315.077.matrix.txt  
+MCS.c5315.078.matrix.txt 0  
+MCS.c5315.079.matrix.txt 0  
+MCS.c5315.080.matrix.txt 0  
+MCS.c5315.081.matrix.txt 0  
+MCS.c5315.082.matrix.txt 0  
+MCS.c5315.083.matrix.txt 0  
+MCS.c5315.084.matrix.txt 0  
+MCS.c5315.085.matrix.txt 0  
+MCS.c5315.086.matrix.txt  
+MCS.c5315.087.matrix.txt  
+MCS.c5315.088.matrix.txt 0  
+MCS.c5315.089.matrix.txt 0  
+MCS.c5315.090.matrix.txt 0  
+MCS.c5315.091.matrix.txt 0  
+MCS.c5315.092.matrix.txt 0  
+MCS.c5315.093.matrix.txt  
+MCS.c5315.094.matrix.txt 0  
+MCS.c5315.095.matrix.txt 0  
+MCS.c5315.096.matrix.txt  
+MCS.c5315.097.matrix.txt  
+MCS.c5315.098.matrix.txt  
+MCS.c5315.099.matrix.txt 0  
+MCS.c5315.100.matrix.txt 0  
+MCS.c5315.101.matrix.txt 0  
+MCS.c5315.102.matrix.txt 0  
+MCS.c5315.103.matrix.txt 0  
+MCS.c5315.104.matrix.txt 0  
+MCS.c5315.105.matrix.txt 0  
+MCS.c5315.106.matrix.txt  
+MCS.c5315.107.matrix.txt  
+MCS.c5315.108.matrix.txt 0  
+MCS.c5315.109.matrix.txt 0  
+MCS.c5315.110.matrix.txt 0  
+MCS.c5315.111.matrix.txt 0  
+MCS.c5315.112.matrix.txt  
+MCS.c5315.113.matrix.txt 0  
+MCS.c5315.114.matrix.txt  
+MCS.c5315.115.matrix.txt 0  
+MCS.c5315.116.matrix.txt  
+MCS.c5315.117.matrix.txt  
+MCS.c5315.118.matrix.txt 0  
+MCS.c5315.119.matrix.txt 0  
+MCS.c5315.120.matrix.txt 0  
+MCS.c5315.121.matrix.txt 0  
+MCS.c5315.122.matrix.txt 0  
+MCS.c5315.123.matrix.txt 0  
+MCS.c5315.124.matrix.txt 0  
+MCS.c5315.125.matrix.txt 0  
+MCS.c5315.126.matrix.txt  
+MCS.c5315.127.matrix.txt  
+MCS.c5315.128.matrix.txt  
+MCS.c5315.129.matrix.txt 0  
+MCS.c5315.130.matrix.txt 0  
+MCS.c5315.131.matrix.txt 0  
+MCS.c5315.132.matrix.txt 0  
+MCS.c5315.133.matrix.txt 0  
+MCS.c5315.134.matrix.txt 0  
+MCS.c5315.135.matrix.txt 0  
+MCS.c5315.136.matrix.txt  
+MCS.c5315.137.matrix.txt  
+MCS.c5315.138.matrix.txt  
+MCS.c5315.139.matrix.txt 0  
+MCS.c5315.140.matrix.txt 0  
+MCS.c5315.141.matrix.txt 0  
+MCS.c5315.142.matrix.txt 0  
+MCS.c5315.143.matrix.txt 0  
+MCS.c5315.144.matrix.txt 0  
+MCS.c5315.145.matrix.txt 0  
+MCS.c5315.146.matrix.txt  
+MCS.c5315.147.matrix.txt  
+MCS.c5315.148.matrix.txt  
+MCS.c5315.149.matrix.txt 0  
+MCS.c5315.150.matrix.txt 0  
+MCS.c5315.151.matrix.txt 0  
+MCS.c5315.152.matrix.txt 0  
+MCS.c5315.153.matrix.txt 0  
+MCS.c5315.154.matrix.txt 0  
+MCS.c5315.155.matrix.txt 0  
+MCS.c5315.156.matrix.txt  
+MCS.c5315.157.matrix.txt  
+MCS.c5315.158.matrix.txt 0  
+MCS.c5315.159.matrix.txt 0  
+MCS.c5315.160.matrix.txt 0  
+MCS.c5315.161.matrix.txt 0  
+MCS.c5315.162.matrix.txt 0  
+MCS.c5315.163.matrix.txt 0  
+MCS.c5315.164.matrix.txt 0  
+MCS.c5315.165.matrix.txt 0  
+MCS.c5315.166.matrix.txt  
+MCS.c5315.167.matrix.txt  
+MCS.c5315.168.matrix.txt 0  
+MCS.c5315.169.matrix.txt 0  
+MCS.c5315.170.matrix.txt 0  
+MCS.c5315.171.matrix.txt 0  
+MCS.c5315.172.matrix.txt 0  
+MCS.c5315.173.matrix.txt 0  
+MCS.c5315.174.matrix.txt 0  
+MCS.c5315.175.matrix.txt 0  
+MCS.c5315.176.matrix.txt  
+MCS.c5315.177.matrix.txt  
+MCS.c5315.178.matrix.txt 0  
+MCS.c5315.179.matrix.txt  
+MCS.c5315.180.matrix.txt 0  
+MCS.c5315.181.matrix.txt 0  
+MCS.c5315.182.matrix.txt  
+MCS.c5315.183.matrix.txt 0  
+MCS.c5315.184.matrix.txt  
+MCS.c5315.185.matrix.txt 0  
+MCS.c5315.186.matrix.txt  
+MCS.c5315.187.matrix.txt  
+MCS.c5315.188.matrix.txt 0  
+MCS.c5315.189.matrix.txt 0  
+MCS.c5315.190.matrix.txt 0  
+MCS.c5315.191.matrix.txt 0  
+MCS.c5315.192.matrix.txt 0  
+MCS.c5315.193.matrix.txt 0  
+MCS.c5315.194.matrix.txt 0  
+MCS.c5315.195.matrix.txt  
+MCS.c5315.196.matrix.txt  
+MCS.c5315.197.matrix.txt  
+MCS.c5315.198.matrix.txt 0  
+MCS.c5315.199.matrix.txt 0  
+MCS.c5315.200.matrix.txt 0  
+MCS.c5315.201.matrix.txt 0  
+MCS.c5315.202.matrix.txt 0  
+MCS.c5315.203.matrix.txt 0  
+MCS.c5315.204.matrix.txt 0  
+MCS.c5315.205.matrix.txt 0  
+MCS.c5315.206.matrix.txt  
+MCS.c5315.207.matrix.txt  
+MCS.c5315.208.matrix.txt 0  
+MCS.c5315.209.matrix.txt 0  
+MCS.c5315.210.matrix.txt  
+MCS.c5315.211.matrix.txt 0  
+MCS.c5315.212.matrix.txt  
+MCS.c5315.213.matrix.txt  
+MCS.c5315.214.matrix.txt  
+MCS.c5315.215.matrix.txt  
+MCS.c5315.216.matrix.txt  
+MCS.c5315.217.matrix.txt  
+MCS.c5315.218.matrix.txt  
+MCS.c5315.219.matrix.txt  
+MCS.c5315.220.matrix.txt 0  
+MCS.c5315.221.matrix.txt  
+MCS.c5315.222.matrix.txt 0  
+MCS.c5315.223.matrix.txt 0  
+MCS.c5315.224.matrix.txt 0  
+MCS.c5315.225.matrix.txt  
+MCS.c5315.226.matrix.txt  
+MCS.c5315.227.matrix.txt  
+MCS.c5315.228.matrix.txt 0  
+MCS.c5315.229.matrix.txt  
+MCS.c5315.230.matrix.txt 0  
+MCS.c5315.231.matrix.txt 0  
+MCS.c5315.232.matrix.txt  
+MCS.c5315.233.matrix.txt 0  
+MCS.c5315.234.matrix.txt  
+MCS.c5315.235.matrix.txt 0  
+MCS.c5315.236.matrix.txt  
+MCS.c5315.237.matrix.txt  
+MCS.c5315.238.matrix.txt 0  
+MCS.c5315.239.matrix.txt 0  
+MCS.c5315.240.matrix.txt 0  
+MCS.c5315.241.matrix.txt 0  
+MCS.c5315.242.matrix.txt 0  
+MCS.c5315.243.matrix.txt 0  
+MCS.c5315.244.matrix.txt 0  
+MCS.c5315.245.matrix.txt  
+MCS.c5315.246.matrix.txt  
+MCS.c5315.247.matrix.txt  
+MCS.c5315.248.matrix.txt  
+MCS.c5315.249.matrix.txt 0  
+MCS.c5315.250.matrix.txt  
+MCS.c5315.251.matrix.txt 0  
+MCS.c5315.252.matrix.txt  
+MCS.c5315.253.matrix.txt 0  
+MCS.c5315.254.matrix.txt 0  
+MCS.c5315.255.matrix.txt 0  
+MCS.c5315.256.matrix.txt  
+MCS.c5315.257.matrix.txt  
+MCS.c5315.258.matrix.txt 0  
+MCS.c5315.259.matrix.txt 0  
+MCS.c5315.260.matrix.txt 0  
+MCS.c5315.261.matrix.txt 0  
+MCS.c5315.262.matrix.txt  
+MCS.c5315.263.matrix.txt 0  
+MCS.c5315.264.matrix.txt 0  
+MCS.c5315.265.matrix.txt 0  
+MCS.c5315.266.matrix.txt  
+MCS.c5315.267.matrix.txt  
+MCS.c5315.268.matrix.txt  
+MCS.c5315.269.matrix.txt  
+MCS.c5315.270.matrix.txt 0  
+MCS.c5315.271.matrix.txt 0  
+MCS.c5315.272.matrix.txt  
+MCS.c5315.273.matrix.txt  
+MCS.c5315.274.matrix.txt 0  
+MCS.c5315.275.matrix.txt 0  
+MCS.c5315.276.matrix.txt  
+MCS.c5315.277.matrix.txt  
+MCS.c5315.278.matrix.txt  
+MCS.c5315.279.matrix.txt 0  
+MCS.c5315.280.matrix.txt 0  
+MCS.c5315.281.matrix.txt 0  
+MCS.c5315.282.matrix.txt 0  
+MCS.c5315.283.matrix.txt 0  
+MCS.c5315.284.matrix.txt 0  
+MCS.c5315.285.matrix.txt 0  
+MCS.c5315.286.matrix.txt  
+MCS.c5315.287.matrix.txt  
+MCS.c5315.288.matrix.txt 0  
+MCS.c5315.289.matrix.txt 0  
+MCS.c5315.290.matrix.txt  
+MCS.c5315.291.matrix.txt  
+MCS.c5315.292.matrix.txt 0  
+MCS.c5315.293.matrix.txt 0  
+MCS.c5315.294.matrix.txt 0  
+MCS.c5315.295.matrix.txt 0  
+MCS.c5315.296.matrix.txt  
+MCS.c5315.297.matrix.txt  
+MCS.c5315.298.matrix.txt 0  
+MCS.c5315.299.matrix.txt  
+MCS.c5315.300.matrix.txt 0  
+MCS.c5315.301.matrix.txt 0  
+MCS.c5315.302.matrix.txt  
+MCS.c5315.303.matrix.txt 0  
+MCS.c5315.304.matrix.txt 0  
+MCS.c5315.305.matrix.txt 0  
+MCS.c5315.306.matrix.txt  
+MCS.c5315.307.matrix.txt  
+MCS.c5315.308.matrix.txt 0  
+MCS.c5315.309.matrix.txt 0  
+MCS.c5315.310.matrix.txt 0  
+MCS.c5315.311.matrix.txt  
+MCS.c5315.312.matrix.txt 0  
+MCS.c5315.313.matrix.txt  
+MCS.c5315.314.matrix.txt 0  
+MCS.c5315.315.matrix.txt 0  
+MCS.c5315.316.matrix.txt  
+MCS.c5315.317.matrix.txt  
+MCS.c5315.318.matrix.txt 0  
+MCS.c5315.319.matrix.txt 0  
+MCS.c5315.320.matrix.txt 0  
+MCS.c5315.321.matrix.txt 0  
+MCS.c5315.322.matrix.txt  
+MCS.c5315.323.matrix.txt 0  
+MCS.c5315.324.matrix.txt 0  
+MCS.c5315.325.matrix.txt  
+MCS.c5315.326.matrix.txt  
+MCS.c5315.327.matrix.txt  
+MCS.c5315.328.matrix.txt  
+MCS.c5315.329.matrix.txt 0  
+MCS.c5315.330.matrix.txt 0  
+MCS.c5315.331.matrix.txt 0  
+MCS.c5315.332.matrix.txt 0  
+MCS.c5315.333.matrix.txt 0  
+MCS.c5315.334.matrix.txt  
+MCS.c5315.335.matrix.txt  
+MCS.c5315.336.matrix.txt  
+MCS.c5315.337.matrix.txt  
+MCS.c5315.338.matrix.txt 0  
+MCS.c5315.339.matrix.txt  
+MCS.c5315.340.matrix.txt 0  
+MCS.c5315.341.matrix.txt  
+MCS.c5315.342.matrix.txt  
+MCS.c5315.343.matrix.txt 0  
+MCS.c5315.344.matrix.txt  
+MCS.c5315.345.matrix.txt  
+MCS.c5315.346.matrix.txt  
+MCS.c5315.347.matrix.txt  
+MCS.c5315.348.matrix.txt 0  
+MCS.c5315.349.matrix.txt 0  
+MCS.c5315.350.matrix.txt  
+MCS.c5315.351.matrix.txt 0  
+MCS.c5315.352.matrix.txt  
+MCS.c5315.353.matrix.txt 0  
+MCS.c5315.354.matrix.txt 0  
+MCS.c5315.355.matrix.txt 0  
+MCS.c5315.356.matrix.txt  
+MCS.c5315.357.matrix.txt  
+MCS.c5315.358.matrix.txt  
+MCS.c5315.359.matrix.txt 0  
+MCS.c5315.360.matrix.txt 0  
+MCS.c5315.361.matrix.txt 0  
+MCS.c5315.362.matrix.txt  
+MCS.c5315.363.matrix.txt 0  
+MCS.c5315.364.matrix.txt 0  
+MCS.c5315.365.matrix.txt 0  
+MCS.c5315.366.matrix.txt  
+MCS.c5315.367.matrix.txt  
+MCS.c5315.368.matrix.txt 0  
+MCS.c5315.369.matrix.txt 0  
+MCS.c5315.370.matrix.txt 0  
+MCS.c5315.371.matrix.txt 0  
+MCS.c5315.372.matrix.txt  
+MCS.c5315.373.matrix.txt  
+MCS.c5315.374.matrix.txt  
+MCS.c5315.375.matrix.txt 0  
+MCS.c5315.376.matrix.txt  
+MCS.c5315.377.matrix.txt  
+MCS.c5315.378.matrix.txt 0  
+MCS.c5315.379.matrix.txt 0 

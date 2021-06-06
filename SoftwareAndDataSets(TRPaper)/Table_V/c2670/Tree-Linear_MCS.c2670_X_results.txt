@@ -1,0 +1,253 @@
+ 
+MCS.c2670.000.matrix.txt 0  
+MCS.c2670.001.matrix.txt 0  
+MCS.c2670.002.matrix.txt 0  
+MCS.c2670.003.matrix.txt 0  
+MCS.c2670.004.matrix.txt 0  
+MCS.c2670.005.matrix.txt 0  
+MCS.c2670.006.matrix.txt  
+MCS.c2670.007.matrix.txt  
+MCS.c2670.008.matrix.txt 0  
+MCS.c2670.009.matrix.txt 0  
+MCS.c2670.010.matrix.txt 0  
+MCS.c2670.011.matrix.txt 0  
+MCS.c2670.012.matrix.txt 0  
+MCS.c2670.013.matrix.txt 0  
+MCS.c2670.014.matrix.txt 0  
+MCS.c2670.015.matrix.txt 0  
+MCS.c2670.016.matrix.txt  
+MCS.c2670.017.matrix.txt  
+MCS.c2670.018.matrix.txt 0  
+MCS.c2670.019.matrix.txt 0  
+MCS.c2670.020.matrix.txt 0  
+MCS.c2670.021.matrix.txt 0  
+MCS.c2670.022.matrix.txt 0  
+MCS.c2670.023.matrix.txt 0  
+MCS.c2670.024.matrix.txt 0  
+MCS.c2670.025.matrix.txt 0  
+MCS.c2670.026.matrix.txt  
+MCS.c2670.027.matrix.txt  
+MCS.c2670.028.matrix.txt 0  
+MCS.c2670.029.matrix.txt 0  
+MCS.c2670.030.matrix.txt 0  
+MCS.c2670.031.matrix.txt 0  
+MCS.c2670.032.matrix.txt 0  
+MCS.c2670.033.matrix.txt 0  
+MCS.c2670.034.matrix.txt 0  
+MCS.c2670.035.matrix.txt 0  
+MCS.c2670.036.matrix.txt  
+MCS.c2670.037.matrix.txt  
+MCS.c2670.038.matrix.txt 0  
+MCS.c2670.039.matrix.txt 0  
+MCS.c2670.040.matrix.txt 0  
+MCS.c2670.041.matrix.txt 0  
+MCS.c2670.042.matrix.txt 0  
+MCS.c2670.043.matrix.txt 0  
+MCS.c2670.044.matrix.txt 0  
+MCS.c2670.045.matrix.txt 0  
+MCS.c2670.046.matrix.txt  
+MCS.c2670.047.matrix.txt  
+MCS.c2670.048.matrix.txt 0  
+MCS.c2670.049.matrix.txt 0  
+MCS.c2670.050.matrix.txt 0  
+MCS.c2670.051.matrix.txt 0  
+MCS.c2670.052.matrix.txt 0  
+MCS.c2670.053.matrix.txt 0  
+MCS.c2670.054.matrix.txt 0  
+MCS.c2670.055.matrix.txt 0  
+MCS.c2670.056.matrix.txt  
+MCS.c2670.057.matrix.txt  
+MCS.c2670.058.matrix.txt 0  
+MCS.c2670.059.matrix.txt 0  
+MCS.c2670.060.matrix.txt 0  
+MCS.c2670.061.matrix.txt 0  
+MCS.c2670.062.matrix.txt 0  
+MCS.c2670.063.matrix.txt 0  
+MCS.c2670.064.matrix.txt 0  
+MCS.c2670.065.matrix.txt 0  
+MCS.c2670.066.matrix.txt  
+MCS.c2670.067.matrix.txt  
+MCS.c2670.068.matrix.txt 0  
+MCS.c2670.069.matrix.txt 0  
+MCS.c2670.070.matrix.txt 0  
+MCS.c2670.071.matrix.txt 0  
+MCS.c2670.072.matrix.txt 0  
+MCS.c2670.073.matrix.txt 0  
+MCS.c2670.074.matrix.txt 0  
+MCS.c2670.075.matrix.txt 0  
+MCS.c2670.076.matrix.txt  
+MCS.c2670.077.matrix.txt  
+MCS.c2670.078.matrix.txt 0  
+MCS.c2670.079.matrix.txt 0  
+MCS.c2670.080.matrix.txt 0  
+MCS.c2670.081.matrix.txt 0  
+MCS.c2670.082.matrix.txt 0  
+MCS.c2670.083.matrix.txt 0  
+MCS.c2670.084.matrix.txt 0  
+MCS.c2670.085.matrix.txt 0  
+MCS.c2670.086.matrix.txt  
+MCS.c2670.087.matrix.txt  
+MCS.c2670.088.matrix.txt 0  
+MCS.c2670.089.matrix.txt 0  
+MCS.c2670.090.matrix.txt 0  
+MCS.c2670.091.matrix.txt 0  
+MCS.c2670.092.matrix.txt 0  
+MCS.c2670.093.matrix.txt  
+MCS.c2670.094.matrix.txt 0  
+MCS.c2670.095.matrix.txt 0  
+MCS.c2670.096.matrix.txt  
+MCS.c2670.097.matrix.txt  
+MCS.c2670.098.matrix.txt 0  
+MCS.c2670.099.matrix.txt 0  
+MCS.c2670.100.matrix.txt 0  
+MCS.c2670.101.matrix.txt 0  
+MCS.c2670.102.matrix.txt 0  
+MCS.c2670.103.matrix.txt 0  
+MCS.c2670.104.matrix.txt 0  
+MCS.c2670.105.matrix.txt 0  
+MCS.c2670.106.matrix.txt  
+MCS.c2670.107.matrix.txt  
+MCS.c2670.108.matrix.txt 0  
+MCS.c2670.109.matrix.txt 0  
+MCS.c2670.110.matrix.txt 0  
+MCS.c2670.111.matrix.txt  
+MCS.c2670.112.matrix.txt 0  
+MCS.c2670.113.matrix.txt 0  
+MCS.c2670.114.matrix.txt 0  
+MCS.c2670.115.matrix.txt 0  
+MCS.c2670.116.matrix.txt  
+MCS.c2670.117.matrix.txt  
+MCS.c2670.118.matrix.txt 0  
+MCS.c2670.119.matrix.txt  
+MCS.c2670.120.matrix.txt 0  
+MCS.c2670.121.matrix.txt 0  
+MCS.c2670.122.matrix.txt 0  
+MCS.c2670.123.matrix.txt  
+MCS.c2670.124.matrix.txt 0  
+MCS.c2670.125.matrix.txt 0  
+MCS.c2670.126.matrix.txt  
+MCS.c2670.127.matrix.txt  
+MCS.c2670.128.matrix.txt 0  
+MCS.c2670.129.matrix.txt 0  
+MCS.c2670.130.matrix.txt 0  
+MCS.c2670.131.matrix.txt 0  
+MCS.c2670.132.matrix.txt 0  
+MCS.c2670.133.matrix.txt 0  
+MCS.c2670.134.matrix.txt 0  
+MCS.c2670.135.matrix.txt 0  
+MCS.c2670.136.matrix.txt  
+MCS.c2670.137.matrix.txt  
+MCS.c2670.138.matrix.txt 0  
+MCS.c2670.139.matrix.txt  
+MCS.c2670.140.matrix.txt 0  
+MCS.c2670.141.matrix.txt  
+MCS.c2670.142.matrix.txt 0  
+MCS.c2670.143.matrix.txt  
+MCS.c2670.144.matrix.txt 0  
+MCS.c2670.145.matrix.txt 0  
+MCS.c2670.146.matrix.txt  
+MCS.c2670.147.matrix.txt  
+MCS.c2670.148.matrix.txt  
+MCS.c2670.149.matrix.txt 0  
+MCS.c2670.150.matrix.txt 0  
+MCS.c2670.151.matrix.txt 0  
+MCS.c2670.152.matrix.txt 0  
+MCS.c2670.153.matrix.txt  
+MCS.c2670.154.matrix.txt 0  
+MCS.c2670.155.matrix.txt  
+MCS.c2670.156.matrix.txt  
+MCS.c2670.157.matrix.txt  
+MCS.c2670.158.matrix.txt 0  
+MCS.c2670.159.matrix.txt 0  
+MCS.c2670.160.matrix.txt 0  
+MCS.c2670.161.matrix.txt 0  
+MCS.c2670.162.matrix.txt 0  
+MCS.c2670.163.matrix.txt 0  
+MCS.c2670.164.matrix.txt 0  
+MCS.c2670.165.matrix.txt 0  
+MCS.c2670.166.matrix.txt  
+MCS.c2670.167.matrix.txt  
+MCS.c2670.168.matrix.txt  
+MCS.c2670.169.matrix.txt 0  
+MCS.c2670.170.matrix.txt 0  
+MCS.c2670.171.matrix.txt 0  
+MCS.c2670.172.matrix.txt 0  
+MCS.c2670.173.matrix.txt 0  
+MCS.c2670.174.matrix.txt 0  
+MCS.c2670.175.matrix.txt 0  
+MCS.c2670.176.matrix.txt  
+MCS.c2670.177.matrix.txt  
+MCS.c2670.178.matrix.txt  
+MCS.c2670.179.matrix.txt 0  
+MCS.c2670.180.matrix.txt 0  
+MCS.c2670.181.matrix.txt  
+MCS.c2670.182.matrix.txt  
+MCS.c2670.183.matrix.txt  
+MCS.c2670.184.matrix.txt 0  
+MCS.c2670.185.matrix.txt 0  
+MCS.c2670.186.matrix.txt  
+MCS.c2670.187.matrix.txt  
+MCS.c2670.188.matrix.txt 0  
+MCS.c2670.189.matrix.txt 0  
+MCS.c2670.190.matrix.txt 0  
+MCS.c2670.191.matrix.txt 0  
+MCS.c2670.192.matrix.txt  
+MCS.c2670.193.matrix.txt 0  
+MCS.c2670.194.matrix.txt  
+MCS.c2670.195.matrix.txt  
+MCS.c2670.196.matrix.txt  
+MCS.c2670.197.matrix.txt  
+MCS.c2670.198.matrix.txt  
+MCS.c2670.199.matrix.txt 0  
+MCS.c2670.200.matrix.txt  
+MCS.c2670.201.matrix.txt 0  
+MCS.c2670.202.matrix.txt  
+MCS.c2670.203.matrix.txt 0  
+MCS.c2670.204.matrix.txt 0  
+MCS.c2670.205.matrix.txt  
+MCS.c2670.206.matrix.txt  
+MCS.c2670.207.matrix.txt  
+MCS.c2670.208.matrix.txt 0  
+MCS.c2670.209.matrix.txt  
+MCS.c2670.210.matrix.txt 0  
+MCS.c2670.211.matrix.txt 0  
+MCS.c2670.212.matrix.txt 0  
+MCS.c2670.213.matrix.txt 0  
+MCS.c2670.214.matrix.txt 0  
+MCS.c2670.215.matrix.txt 0  
+MCS.c2670.216.matrix.txt  
+MCS.c2670.217.matrix.txt  
+MCS.c2670.218.matrix.txt  
+MCS.c2670.219.matrix.txt  
+MCS.c2670.220.matrix.txt  
+MCS.c2670.221.matrix.txt 0  
+MCS.c2670.222.matrix.txt  
+MCS.c2670.223.matrix.txt 0  
+MCS.c2670.224.matrix.txt 0  
+MCS.c2670.225.matrix.txt 0  
+MCS.c2670.226.matrix.txt  
+MCS.c2670.227.matrix.txt  
+MCS.c2670.228.matrix.txt 0  
+MCS.c2670.229.matrix.txt 0  
+MCS.c2670.230.matrix.txt 0  
+MCS.c2670.231.matrix.txt  
+MCS.c2670.232.matrix.txt 0  
+MCS.c2670.233.matrix.txt  
+MCS.c2670.234.matrix.txt 0  
+MCS.c2670.235.matrix.txt 0  
+MCS.c2670.236.matrix.txt  
+MCS.c2670.237.matrix.txt  
+MCS.c2670.238.matrix.txt  
+MCS.c2670.239.matrix.txt 0  
+MCS.c2670.240.matrix.txt 0  
+MCS.c2670.241.matrix.txt 0  
+MCS.c2670.242.matrix.txt  
+MCS.c2670.243.matrix.txt  
+MCS.c2670.244.matrix.txt 0  
+MCS.c2670.245.matrix.txt  
+MCS.c2670.246.matrix.txt  
+MCS.c2670.247.matrix.txt  
+MCS.c2670.248.matrix.txt 0  
+MCS.c2670.249.matrix.txt 0  
+MCS.c2670.250.matrix.txt  
+MCS.c2670.251.matrix.txt 0 

@@ -1,0 +1,45 @@
+MCS集合 运行时间 MHS个数
+MCS_LTree_h_14_2_Matrix.txt 0.034000 65
+MCS_LTree_h_14_Matrix.txt 0.034000 65
+MCS_LTree_h_15_2_Matrix.txt 0.046000 86
+MCS_LTree_h_15_Matrix.txt 0.034000 86
+MCS_LTree_h_16_2_Matrix.txt 0.047000 114
+MCS_LTree_h_16_Matrix.txt 0.051000 114
+MCS_LTree_h_17_2_Matrix.txt 0.046000 151
+MCS_LTree_h_17_Matrix.txt 0.144000 151
+MCS_LTree_h_18_2_Matrix.txt 0.146000 200
+MCS_LTree_h_18_Matrix.txt 0.237000 200
+MCS_LTree_h_19_2_Matrix.txt 0.085000 265
+MCS_LTree_h_19_Matrix.txt 0.242000 265
+MCS_LTree_h_20_2_Matrix.txt 0.304000 351
+MCS_LTree_h_20_Matrix.txt 0.232000 351
+MCS_LTree_h_21_2_Matrix.txt 0.441000 465
+MCS_LTree_h_21_Matrix.txt 0.405000 465
+MCS_LTree_h_22_2_Matrix.txt 0.647000 616
+MCS_LTree_h_22_Matrix.txt 0.834000 616
+MCS_LTree_h_23_2_Matrix.txt 1.246000 816
+MCS_LTree_h_23_Matrix.txt 1.356000 816
+
+
+MCS_LTree_h_14_2_Matrix.txt	0.034	65
+MCS_LTree_h_15_2_Matrix.txt	0.046	86
+MCS_LTree_h_16_2_Matrix.txt	0.047	114
+MCS_LTree_h_17_2_Matrix.txt	0.046	151
+MCS_LTree_h_18_2_Matrix.txt	0.146	200
+MCS_LTree_h_19_2_Matrix.txt	0.085	265
+MCS_LTree_h_20_2_Matrix.txt	0.304	351
+MCS_LTree_h_21_2_Matrix.txt	0.441	465
+MCS_LTree_h_22_2_Matrix.txt	0.647	616
+MCS_LTree_h_23_2_Matrix.txt	1.246	816
+
+
+MCS_LTree_h_14_Matrix.txt	0.034	65		
+MCS_LTree_h_15_Matrix.txt	0.034	86		
+MCS_LTree_h_16_Matrix.txt	0.051	114		
+MCS_LTree_h_17_Matrix.txt	0.144	151		
+MCS_LTree_h_18_Matrix.txt	0.237	200		
+MCS_LTree_h_19_Matrix.txt	0.242	265		
+MCS_LTree_h_20_Matrix.txt	0.232	351		
+MCS_LTree_h_21_Matrix.txt	0.405	465		
+MCS_LTree_h_22_Matrix.txt	0.834	616		
+MCS_LTree_h_23_Matrix.txt	1.356	816

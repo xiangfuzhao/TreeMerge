@@ -1,0 +1,247 @@
+ 
+MCS.c880.000.matrix.txt 0  
+MCS.c880.001.matrix.txt 0  
+MCS.c880.002.matrix.txt 0  
+MCS.c880.003.matrix.txt 0  
+MCS.c880.004.matrix.txt 0  
+MCS.c880.005.matrix.txt 0  
+MCS.c880.006.matrix.txt  
+MCS.c880.007.matrix.txt  
+MCS.c880.008.matrix.txt 0  
+MCS.c880.009.matrix.txt 0  
+MCS.c880.010.matrix.txt 0  
+MCS.c880.011.matrix.txt 0  
+MCS.c880.012.matrix.txt 0  
+MCS.c880.013.matrix.txt 0  
+MCS.c880.014.matrix.txt 0  
+MCS.c880.015.matrix.txt 0  
+MCS.c880.016.matrix.txt  
+MCS.c880.017.matrix.txt  
+MCS.c880.018.matrix.txt 0  
+MCS.c880.019.matrix.txt 0  
+MCS.c880.020.matrix.txt 0  
+MCS.c880.021.matrix.txt 0  
+MCS.c880.022.matrix.txt 0  
+MCS.c880.023.matrix.txt 0  
+MCS.c880.024.matrix.txt 0  
+MCS.c880.025.matrix.txt 0  
+MCS.c880.026.matrix.txt  
+MCS.c880.027.matrix.txt  
+MCS.c880.028.matrix.txt 0  
+MCS.c880.029.matrix.txt 0  
+MCS.c880.030.matrix.txt 0  
+MCS.c880.031.matrix.txt 0  
+MCS.c880.032.matrix.txt 0  
+MCS.c880.033.matrix.txt 0  
+MCS.c880.034.matrix.txt 0  
+MCS.c880.035.matrix.txt 0  
+MCS.c880.036.matrix.txt  
+MCS.c880.037.matrix.txt  
+MCS.c880.038.matrix.txt 0  
+MCS.c880.039.matrix.txt 0  
+MCS.c880.040.matrix.txt 0  
+MCS.c880.041.matrix.txt 0  
+MCS.c880.042.matrix.txt 0  
+MCS.c880.043.matrix.txt 0  
+MCS.c880.044.matrix.txt 0  
+MCS.c880.045.matrix.txt 0  
+MCS.c880.046.matrix.txt  
+MCS.c880.047.matrix.txt  
+MCS.c880.048.matrix.txt 0  
+MCS.c880.049.matrix.txt 0  
+MCS.c880.050.matrix.txt 0  
+MCS.c880.051.matrix.txt 0  
+MCS.c880.052.matrix.txt 0  
+MCS.c880.053.matrix.txt 0  
+MCS.c880.054.matrix.txt 0  
+MCS.c880.055.matrix.txt 0  
+MCS.c880.056.matrix.txt  
+MCS.c880.057.matrix.txt  
+MCS.c880.058.matrix.txt 0  
+MCS.c880.059.matrix.txt 0  
+MCS.c880.060.matrix.txt 0  
+MCS.c880.061.matrix.txt 0  
+MCS.c880.062.matrix.txt 0  
+MCS.c880.063.matrix.txt 0  
+MCS.c880.064.matrix.txt 0  
+MCS.c880.065.matrix.txt 0  
+MCS.c880.066.matrix.txt  
+MCS.c880.067.matrix.txt  
+MCS.c880.068.matrix.txt 0  
+MCS.c880.069.matrix.txt 0  
+MCS.c880.070.matrix.txt 0  
+MCS.c880.071.matrix.txt 0  
+MCS.c880.072.matrix.txt 0  
+MCS.c880.073.matrix.txt 0  
+MCS.c880.074.matrix.txt 0  
+MCS.c880.075.matrix.txt 0  
+MCS.c880.076.matrix.txt  
+MCS.c880.077.matrix.txt  
+MCS.c880.078.matrix.txt 0  
+MCS.c880.079.matrix.txt 0  
+MCS.c880.080.matrix.txt 0  
+MCS.c880.081.matrix.txt 0  
+MCS.c880.082.matrix.txt 0  
+MCS.c880.083.matrix.txt 0  
+MCS.c880.084.matrix.txt 0  
+MCS.c880.085.matrix.txt 0  
+MCS.c880.086.matrix.txt  
+MCS.c880.087.matrix.txt  
+MCS.c880.088.matrix.txt 0  
+MCS.c880.089.matrix.txt 0  
+MCS.c880.090.matrix.txt 0  
+MCS.c880.091.matrix.txt 0  
+MCS.c880.092.matrix.txt 0  
+MCS.c880.093.matrix.txt 0  
+MCS.c880.094.matrix.txt 0  
+MCS.c880.095.matrix.txt 0  
+MCS.c880.096.matrix.txt  
+MCS.c880.097.matrix.txt  
+MCS.c880.098.matrix.txt 0  
+MCS.c880.099.matrix.txt 0  
+MCS.c880.100.matrix.txt 0  
+MCS.c880.101.matrix.txt 0  
+MCS.c880.102.matrix.txt 0  
+MCS.c880.103.matrix.txt 0  
+MCS.c880.104.matrix.txt 0  
+MCS.c880.105.matrix.txt 0  
+MCS.c880.106.matrix.txt  
+MCS.c880.107.matrix.txt  
+MCS.c880.108.matrix.txt 0  
+MCS.c880.109.matrix.txt 0  
+MCS.c880.110.matrix.txt 0  
+MCS.c880.111.matrix.txt 0  
+MCS.c880.112.matrix.txt 0  
+MCS.c880.113.matrix.txt 0  
+MCS.c880.114.matrix.txt 0  
+MCS.c880.115.matrix.txt 0  
+MCS.c880.116.matrix.txt  
+MCS.c880.117.matrix.txt  
+MCS.c880.118.matrix.txt 0  
+MCS.c880.119.matrix.txt 0  
+MCS.c880.120.matrix.txt 0  
+MCS.c880.121.matrix.txt 0  
+MCS.c880.122.matrix.txt 0  
+MCS.c880.123.matrix.txt 0  
+MCS.c880.124.matrix.txt 0  
+MCS.c880.125.matrix.txt 0  
+MCS.c880.126.matrix.txt  
+MCS.c880.127.matrix.txt  
+MCS.c880.128.matrix.txt 0  
+MCS.c880.129.matrix.txt 0  
+MCS.c880.130.matrix.txt 0  
+MCS.c880.131.matrix.txt 0  
+MCS.c880.132.matrix.txt 0  
+MCS.c880.133.matrix.txt 0  
+MCS.c880.134.matrix.txt 0  
+MCS.c880.135.matrix.txt 0  
+MCS.c880.136.matrix.txt  
+MCS.c880.137.matrix.txt  
+MCS.c880.138.matrix.txt 0  
+MCS.c880.139.matrix.txt 0  
+MCS.c880.140.matrix.txt 0  
+MCS.c880.141.matrix.txt 0  
+MCS.c880.142.matrix.txt 0  
+MCS.c880.143.matrix.txt 0  
+MCS.c880.144.matrix.txt 0  
+MCS.c880.145.matrix.txt 0  
+MCS.c880.146.matrix.txt  
+MCS.c880.147.matrix.txt  
+MCS.c880.148.matrix.txt 0  
+MCS.c880.149.matrix.txt 0  
+MCS.c880.150.matrix.txt 0  
+MCS.c880.151.matrix.txt 0  
+MCS.c880.152.matrix.txt 0  
+MCS.c880.153.matrix.txt 0  
+MCS.c880.154.matrix.txt 0  
+MCS.c880.155.matrix.txt 0  
+MCS.c880.156.matrix.txt  
+MCS.c880.157.matrix.txt  
+MCS.c880.158.matrix.txt 0  
+MCS.c880.159.matrix.txt 0  
+MCS.c880.160.matrix.txt 0  
+MCS.c880.161.matrix.txt 0  
+MCS.c880.162.matrix.txt 0  
+MCS.c880.163.matrix.txt 0  
+MCS.c880.164.matrix.txt 0  
+MCS.c880.165.matrix.txt 0  
+MCS.c880.166.matrix.txt  
+MCS.c880.167.matrix.txt  
+MCS.c880.168.matrix.txt 0  
+MCS.c880.169.matrix.txt 0  
+MCS.c880.170.matrix.txt 0  
+MCS.c880.171.matrix.txt 0  
+MCS.c880.172.matrix.txt 0  
+MCS.c880.173.matrix.txt 0  
+MCS.c880.174.matrix.txt 0  
+MCS.c880.175.matrix.txt 0  
+MCS.c880.176.matrix.txt  
+MCS.c880.177.matrix.txt  
+MCS.c880.178.matrix.txt 0  
+MCS.c880.179.matrix.txt 0  
+MCS.c880.180.matrix.txt 0  
+MCS.c880.181.matrix.txt 0  
+MCS.c880.182.matrix.txt 0  
+MCS.c880.183.matrix.txt 0  
+MCS.c880.184.matrix.txt 0  
+MCS.c880.185.matrix.txt 0  
+MCS.c880.186.matrix.txt  
+MCS.c880.187.matrix.txt  
+MCS.c880.188.matrix.txt 0  
+MCS.c880.189.matrix.txt 0  
+MCS.c880.190.matrix.txt 0  
+MCS.c880.191.matrix.txt 0  
+MCS.c880.192.matrix.txt 0  
+MCS.c880.193.matrix.txt 0  
+MCS.c880.194.matrix.txt 0  
+MCS.c880.195.matrix.txt 0  
+MCS.c880.196.matrix.txt  
+MCS.c880.197.matrix.txt  
+MCS.c880.198.matrix.txt 0  
+MCS.c880.199.matrix.txt 0  
+MCS.c880.200.matrix.txt 0  
+MCS.c880.201.matrix.txt 0  
+MCS.c880.202.matrix.txt 0  
+MCS.c880.203.matrix.txt 0  
+MCS.c880.204.matrix.txt 0  
+MCS.c880.205.matrix.txt 0  
+MCS.c880.206.matrix.txt  
+MCS.c880.207.matrix.txt  
+MCS.c880.208.matrix.txt 0  
+MCS.c880.209.matrix.txt 0  
+MCS.c880.210.matrix.txt 0  
+MCS.c880.211.matrix.txt 0  
+MCS.c880.212.matrix.txt 0  
+MCS.c880.213.matrix.txt 0  
+MCS.c880.214.matrix.txt 0  
+MCS.c880.215.matrix.txt 0  
+MCS.c880.216.matrix.txt  
+MCS.c880.217.matrix.txt  
+MCS.c880.218.matrix.txt 0  
+MCS.c880.219.matrix.txt 0  
+MCS.c880.220.matrix.txt 0  
+MCS.c880.221.matrix.txt 0  
+MCS.c880.222.matrix.txt 0  
+MCS.c880.223.matrix.txt 0  
+MCS.c880.224.matrix.txt 0  
+MCS.c880.225.matrix.txt 0  
+MCS.c880.226.matrix.txt  
+MCS.c880.227.matrix.txt  
+MCS.c880.228.matrix.txt 0  
+MCS.c880.229.matrix.txt 0  
+MCS.c880.230.matrix.txt 0  
+MCS.c880.231.matrix.txt 0  
+MCS.c880.232.matrix.txt 0  
+MCS.c880.233.matrix.txt 0  
+MCS.c880.234.matrix.txt 0  
+MCS.c880.235.matrix.txt 0  
+MCS.c880.236.matrix.txt  
+MCS.c880.237.matrix.txt  
+MCS.c880.238.matrix.txt 0  
+MCS.c880.239.matrix.txt 0  
+MCS.c880.240.matrix.txt 0  
+MCS.c880.241.matrix.txt 0  
+MCS.c880.242.matrix.txt 0  
+MCS.c880.243.matrix.txt 0  
+MCS.c880.244.matrix.txt 1 1th set: 203 206 207 208 229 232 234 256 259 267 286 287 293 323 324 343 351 356 360 364 368 370 372 374 376 378 381 , 2th set: 203 204 205 229 231 256 343 351 360 368 369 373 377 380 , 3th set: 31 180 193 214 240 356 364 372 376 , 4th set: 29 178 191 208 234 370 374 378 381 , 5th set: 27 177 190 205 231 369 373 377 380 , ;     
+MCS.c880.245.matrix.txt 0 

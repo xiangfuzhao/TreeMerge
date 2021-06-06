@@ -1,0 +1,4 @@
+Any MCS family with a linear structure has also a tree structure.
+
+One special case: circuit c880 MCS ID:244, this family has a tree structure but not a linear structure.
+All MCS families with tree strucutes except c880:ID244 have linear structures.

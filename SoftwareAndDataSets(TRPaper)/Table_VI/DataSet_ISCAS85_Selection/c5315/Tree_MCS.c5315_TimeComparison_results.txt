@@ -1,0 +1,201 @@
+ 
+MCS.c5315.104.matrix.txt BoolTime: 9.085083, DirectMergeTime: 12.366039, BHSTime: 30.273717 
+MCS.c5315.105.matrix.txt  
+MCS.c5315.106.matrix.txt  
+MCS.c5315.107.matrix.txt  
+MCS.c5315.108.matrix.txt  
+MCS.c5315.109.matrix.txt  
+MCS.c5315.110.matrix.txt  
+MCS.c5315.111.matrix.txt  
+MCS.c5315.112.matrix.txt  
+MCS.c5315.113.matrix.txt  
+MCS.c5315.114.matrix.txt  
+MCS.c5315.115.matrix.txt  
+MCS.c5315.116.matrix.txt  
+MCS.c5315.117.matrix.txt  
+MCS.c5315.118.matrix.txt  
+MCS.c5315.119.matrix.txt  
+MCS.c5315.120.matrix.txt  
+MCS.c5315.121.matrix.txt  
+MCS.c5315.122.matrix.txt  
+MCS.c5315.123.matrix.txt  
+MCS.c5315.124.matrix.txt  
+MCS.c5315.125.matrix.txt  
+MCS.c5315.126.matrix.txt  
+MCS.c5315.127.matrix.txt  
+MCS.c5315.128.matrix.txt  
+MCS.c5315.129.matrix.txt  
+MCS.c5315.130.matrix.txt  
+MCS.c5315.131.matrix.txt  
+MCS.c5315.132.matrix.txt  
+MCS.c5315.133.matrix.txt  
+MCS.c5315.134.matrix.txt  
+MCS.c5315.135.matrix.txt BoolTime: 9.245372, DirectMergeTime: 12.602941, BHSTime: 30.412059 
+MCS.c5315.136.matrix.txt  
+MCS.c5315.137.matrix.txt  
+MCS.c5315.138.matrix.txt  
+MCS.c5315.139.matrix.txt  
+MCS.c5315.140.matrix.txt  
+MCS.c5315.141.matrix.txt  
+MCS.c5315.142.matrix.txt  
+MCS.c5315.143.matrix.txt  
+MCS.c5315.144.matrix.txt BoolTime: 9.224563, DirectMergeTime: 12.600850, BHSTime: 30.401320 
+MCS.c5315.154.matrix.txt BoolTime: 191.338429, DirectMergeTime: 344.243552, BHSTime: 422.756936 
+MCS.c5315.155.matrix.txt  
+MCS.c5315.156.matrix.txt  
+MCS.c5315.157.matrix.txt  
+MCS.c5315.158.matrix.txt  
+MCS.c5315.159.matrix.txt  
+MCS.c5315.160.matrix.txt  
+MCS.c5315.161.matrix.txt BoolTime: 9.239903, DirectMergeTime: 12.585309, BHSTime: 30.401876 
+MCS.c5315.165.matrix.txt BoolTime: 191.323426, DirectMergeTime: 344.408251, BHSTime: 422.820797 
+MCS.c5315.166.matrix.txt  
+MCS.c5315.167.matrix.txt  
+MCS.c5315.168.matrix.txt  
+MCS.c5315.169.matrix.txt BoolTime: 191.210808, DirectMergeTime: 344.271088, BHSTime: 422.516269 
+MCS.c5315.194.matrix.txt BoolTime: 6.953309, DirectMergeTime: 22.895091, BHSTime: 13.756881 
+MCS.c5315.195.matrix.txt  
+MCS.c5315.196.matrix.txt  
+MCS.c5315.197.matrix.txt  
+MCS.c5315.198.matrix.txt  
+MCS.c5315.199.matrix.txt  
+MCS.c5315.200.matrix.txt  
+MCS.c5315.201.matrix.txt  
+MCS.c5315.202.matrix.txt  
+MCS.c5315.203.matrix.txt  
+MCS.c5315.204.matrix.txt  
+MCS.c5315.205.matrix.txt  
+MCS.c5315.206.matrix.txt  
+MCS.c5315.207.matrix.txt  
+MCS.c5315.208.matrix.txt  
+MCS.c5315.209.matrix.txt  
+MCS.c5315.210.matrix.txt  
+MCS.c5315.211.matrix.txt BoolTime: 9.218408, DirectMergeTime: 12.587728, BHSTime: 30.432082 
+MCS.c5315.212.matrix.txt  
+MCS.c5315.213.matrix.txt  
+MCS.c5315.214.matrix.txt  
+MCS.c5315.215.matrix.txt  
+MCS.c5315.216.matrix.txt  
+MCS.c5315.217.matrix.txt  
+MCS.c5315.218.matrix.txt  
+MCS.c5315.219.matrix.txt  
+MCS.c5315.220.matrix.txt  
+MCS.c5315.221.matrix.txt  
+MCS.c5315.222.matrix.txt BoolTime: 9.228870, DirectMergeTime: 12.591934, BHSTime: 30.419315 
+MCS.c5315.223.matrix.txt  
+MCS.c5315.224.matrix.txt  
+MCS.c5315.225.matrix.txt  
+MCS.c5315.226.matrix.txt  
+MCS.c5315.227.matrix.txt  
+MCS.c5315.228.matrix.txt  
+MCS.c5315.229.matrix.txt  
+MCS.c5315.230.matrix.txt  
+MCS.c5315.231.matrix.txt  
+MCS.c5315.232.matrix.txt  
+MCS.c5315.233.matrix.txt  
+MCS.c5315.234.matrix.txt  
+MCS.c5315.235.matrix.txt  
+MCS.c5315.236.matrix.txt  
+MCS.c5315.237.matrix.txt  
+MCS.c5315.238.matrix.txt  
+MCS.c5315.239.matrix.txt  
+MCS.c5315.240.matrix.txt  
+MCS.c5315.241.matrix.txt  
+MCS.c5315.242.matrix.txt BoolTime: 9.216013, DirectMergeTime: 12.588028, BHSTime: 30.370886 
+MCS.c5315.243.matrix.txt  
+MCS.c5315.244.matrix.txt  
+MCS.c5315.245.matrix.txt  
+MCS.c5315.246.matrix.txt  
+MCS.c5315.247.matrix.txt  
+MCS.c5315.248.matrix.txt  
+MCS.c5315.249.matrix.txt  
+MCS.c5315.250.matrix.txt  
+MCS.c5315.251.matrix.txt  
+MCS.c5315.252.matrix.txt  
+MCS.c5315.253.matrix.txt  
+MCS.c5315.254.matrix.txt  
+MCS.c5315.255.matrix.txt  
+MCS.c5315.256.matrix.txt  
+MCS.c5315.257.matrix.txt  
+MCS.c5315.258.matrix.txt  
+MCS.c5315.259.matrix.txt BoolTime: 3.141920, DirectMergeTime: 6.914010, BHSTime: 3.086686 
+MCS.c5315.263.matrix.txt BoolTime: 196.456787, DirectMergeTime: 353.458981, BHSTime: 427.483032 
+MCS.c5315.264.matrix.txt  
+MCS.c5315.265.matrix.txt  
+MCS.c5315.266.matrix.txt  
+MCS.c5315.267.matrix.txt  
+MCS.c5315.268.matrix.txt  
+MCS.c5315.269.matrix.txt  
+MCS.c5315.270.matrix.txt  
+MCS.c5315.271.matrix.txt  
+MCS.c5315.272.matrix.txt  
+MCS.c5315.273.matrix.txt  
+MCS.c5315.274.matrix.txt  
+MCS.c5315.275.matrix.txt BoolTime: 3.137549, DirectMergeTime: 6.882725, BHSTime: 3.064341 
+MCS.c5315.276.matrix.txt  
+MCS.c5315.277.matrix.txt  
+MCS.c5315.278.matrix.txt  
+MCS.c5315.279.matrix.txt  
+MCS.c5315.280.matrix.txt  
+MCS.c5315.281.matrix.txt  
+MCS.c5315.282.matrix.txt  
+MCS.c5315.283.matrix.txt  
+MCS.c5315.284.matrix.txt  
+MCS.c5315.285.matrix.txt  
+MCS.c5315.286.matrix.txt  
+MCS.c5315.287.matrix.txt  
+MCS.c5315.288.matrix.txt BoolTime: 9.232191, DirectMergeTime: 12.592676, BHSTime: 30.393081 
+MCS.c5315.289.matrix.txt  
+MCS.c5315.290.matrix.txt  
+MCS.c5315.291.matrix.txt  
+MCS.c5315.292.matrix.txt  
+MCS.c5315.293.matrix.txt  
+MCS.c5315.294.matrix.txt  
+MCS.c5315.295.matrix.txt  
+MCS.c5315.296.matrix.txt  
+MCS.c5315.297.matrix.txt  
+MCS.c5315.298.matrix.txt  
+MCS.c5315.299.matrix.txt  
+MCS.c5315.300.matrix.txt  
+MCS.c5315.301.matrix.txt  
+MCS.c5315.303.matrix.txt BoolTime: 191.358090, DirectMergeTime: 344.490832, BHSTime: 423.286181 
+MCS.c5315.304.matrix.txt  
+MCS.c5315.305.matrix.txt  
+MCS.c5315.306.matrix.txt  
+MCS.c5315.307.matrix.txt  
+MCS.c5315.308.matrix.txt  
+MCS.c5315.309.matrix.txt  
+MCS.c5315.310.matrix.txt  
+MCS.c5315.311.matrix.txt  
+MCS.c5315.312.matrix.txt  
+MCS.c5315.313.matrix.txt  
+MCS.c5315.314.matrix.txt  
+MCS.c5315.315.matrix.txt  
+MCS.c5315.316.matrix.txt  
+MCS.c5315.317.matrix.txt  
+MCS.c5315.318.matrix.txt BoolTime: 9.521003, DirectMergeTime: 13.338792, BHSTime: 30.882178 
+MCS.c5315.319.matrix.txt  
+MCS.c5315.320.matrix.txt  
+MCS.c5315.321.matrix.txt  
+MCS.c5315.322.matrix.txt  
+MCS.c5315.323.matrix.txt  
+MCS.c5315.324.matrix.txt  
+MCS.c5315.325.matrix.txt  
+MCS.c5315.326.matrix.txt  
+MCS.c5315.327.matrix.txt  
+MCS.c5315.328.matrix.txt  
+MCS.c5315.329.matrix.txt  
+MCS.c5315.330.matrix.txt  
+MCS.c5315.331.matrix.txt BoolTime: 9.508161, DirectMergeTime: 13.344254, BHSTime: 30.895323 
+MCS.c5315.332.matrix.txt  
+MCS.c5315.333.matrix.txt  
+MCS.c5315.334.matrix.txt  
+MCS.c5315.335.matrix.txt  
+MCS.c5315.336.matrix.txt  
+MCS.c5315.337.matrix.txt  
+MCS.c5315.338.matrix.txt  
+MCS.c5315.339.matrix.txt  
+MCS.c5315.340.matrix.txt  
+MCS.c5315.341.matrix.txt  
+MCS.c5315.342.matrix.txt  
+MCS.c5315.343.matrix.txt BoolTime: 3.119347, DirectMergeTime: 6.846746, BHSTime: 2.966167
